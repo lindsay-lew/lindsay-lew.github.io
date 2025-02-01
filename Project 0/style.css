@@ -1,0 +1,8 @@
+h1:hover {
+    /* COMMENT OUT IN CSS */
+    /* color:green */
+    color: darkmagenta;
+}
+.button:hover {
+    color: violet;
+}
