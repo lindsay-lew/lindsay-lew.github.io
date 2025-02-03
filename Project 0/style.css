@@ -10,3 +10,24 @@ a {
     text-decoration: none; /* Removes underline */
     color: inherit; /* Makes the link inherit the text color from its parent */
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  ul li {
+    float: left;
+  }
+  ul li a {
+    display: block;
+    padding: 15px;
+    font-weight: bold;
+  }
+.spacer {
+    height: 100px; /* Adjust space as needed */
+}
+.bold {
+    font-weight: bold; /* Makes the text bold */
+}
