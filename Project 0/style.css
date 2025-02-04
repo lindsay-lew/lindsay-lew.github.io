@@ -1,7 +1,14 @@
+body {
+    background-color: lightyellow;
+}
 h1:hover {
     /* COMMENT OUT IN CSS */
     /* color:green */
     color: darkmagenta;
+}
+ol a {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Makes the link inherit the text color from its parent */
 }
 .button:hover {
     color: violet;
@@ -24,10 +31,27 @@ ul {
     display: block;
     padding: 15px;
     font-weight: bold;
+    color:darkmagenta
+  }
+  li a:hover {
+    background-color: violet;
+  }
+  .active {
+    background-color: violet;
   }
 .spacer {
     height: 100px; /* Adjust space as needed */
 }
 .bold {
     font-weight: bold; /* Makes the text bold */
+}
+#bold-link {
+    font-weight: bold;
+}
+.text-container {
+    background-color: rgb(254, 198, 254); /* Background color */
+    padding: 15px; /* Space inside the div */
+    border-radius: 30px; /* Rounded corners */
+    width: 1000px; /* Set a fixed width */
+    margin: 20px 0; /* Centering the div */
 }
