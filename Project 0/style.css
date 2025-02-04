@@ -62,3 +62,29 @@ ul {
     width: 1000px; /* Set a fixed width */
     margin: 20px 0; /* Centering the div */
 }
+.styled-table {
+    width: 50%; /* Adjusts table width */
+    border-collapse: collapse; /* Removes double borders */
+    margin: 15px 0;
+    font-size: 15px;
+    text-align: left;
+}
+.styled-table td {
+    border: 1px solid black; /* Adds border to cells */
+    padding: 10px; /* Adds space inside cells */
+    background-color: white;
+}
+.list-container {
+    width: 30%; /* Adjust width */
+    margin: 0px 0; /* Centers the list */
+    padding: 0px;
+    line-height: 1.5;
+}
+#italic-text {
+    font-style: italic;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
