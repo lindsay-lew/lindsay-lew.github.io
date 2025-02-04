@@ -55,3 +55,10 @@ ul {
     width: 1000px; /* Set a fixed width */
     margin: 20px 0; /* Centering the div */
 }
+.text-container1 {
+    background-color: rgb(254, 198, 254); /* Background color */
+    padding: 10px; /* Space inside the div */
+    border-radius: 20px; /* Rounded corners */
+    width: 1000px; /* Set a fixed width */
+    margin: 20px 0; /* Centering the div */
+}
