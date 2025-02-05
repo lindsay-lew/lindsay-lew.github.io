@@ -104,10 +104,26 @@ ul {
 }
 .highlight-text {
     margin: 10px 0; /* Adds spacing around the paragraph */
-    text-decoration:dotted;
+    text-decoration: 2px underline dotted violet;
+    text-underline-offset: 5px;
 }
-
 .bold-colored {
     font-weight: bold; /* Makes the text bold */
     color: darkmagenta; /* Changes the color */
+}
+.image-container1 {
+    text-align: center; /* Centers the image horizontally */
+}
+.dotted-line {
+    border-top: 3px dotted darkmagenta; /* Creates a dotted line */
+    width: 100%; /* Makes the line span the entire width of the page */
+    margin: 20px 0; /* Adds space above and below the line */
+}
+.outline-container {
+    text-align: center;
+    align-items: center;
+    border: 2px solid darkmagenta; /* Outline around the div */
+    padding: 1px; /* Space between the border and the text */
+    margin: 20px 0; /* Space above and below the div */
+    width: 30%;
 }
