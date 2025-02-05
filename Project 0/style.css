@@ -94,7 +94,7 @@ ul {
     padding: 10px; /* Adds space between the image and the border */
     text-align: center; /* Centers the description text */
     border-radius: 10px; /* Slightly rounds the corners */
-    background-color: #f9f9f9; /* Light background for contrast */
+    background-color: rgb(254, 198, 254); /* Light background for contrast */
 }
 .image-description {
     margin-top: 8px; /* Adds space between the image and text */
@@ -102,4 +102,12 @@ ul {
     color: darkmagenta;
     font-weight: bold;
 }
+.highlight-text {
+    margin: 10px 0; /* Adds spacing around the paragraph */
+    text-decoration:dotted;
+}
 
+.bold-colored {
+    font-weight: bold; /* Makes the text bold */
+    color: darkmagenta; /* Changes the color */
+}
