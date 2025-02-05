@@ -121,8 +121,7 @@ ul {
 }
 .outline-container {
     text-align: center;
-    align-items: center;
-    border: 2px solid darkmagenta; /* Outline around the div */
+    border: 2px dashed darkmagenta; /* Outline around the div */
     padding: 1px; /* Space between the border and the text */
     margin: 20px 0; /* Space above and below the div */
     width: 30%;
