@@ -70,7 +70,7 @@ ul {
     text-align: left;
 }
 .styled-table td {
-    border: 1px solid black; /* Adds border to cells */
+    border: 1px solid darkmagenta; /* Adds border to cells */
     padding: 10px; /* Adds space inside cells */
     background-color: white;
 }
