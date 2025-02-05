@@ -63,7 +63,7 @@ ul {
     margin: 20px 0; /* Centering the div */
 }
 .styled-table {
-    width: 10%; /* Adjusts table width */
+    width: 100%; /* Adjusts table width */
     border-collapse: collapse; /* Removes double borders */
     margin: 15px 0;
     font-size: 15px;
@@ -88,3 +88,18 @@ ul {
       background-color: lightblue;
     }
   }
+.image-container {
+    width: fit-content; /* Makes the container fit the image */
+    border: 3px solid darkmagenta; /* Adds an outline around the image */
+    padding: 10px; /* Adds space between the image and the border */
+    text-align: center; /* Centers the description text */
+    border-radius: 10px; /* Slightly rounds the corners */
+    background-color: #f9f9f9; /* Light background for contrast */
+}
+.image-description {
+    margin-top: 8px; /* Adds space between the image and text */
+    font-size: 14px;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
