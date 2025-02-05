@@ -63,15 +63,15 @@ ul {
     margin: 20px 0; /* Centering the div */
 }
 .styled-table {
-    width: 70%; /* Adjusts table width */
+    width: 10%; /* Adjusts table width */
     border-collapse: collapse; /* Removes double borders */
     margin: 15px 0;
     font-size: 15px;
     text-align: left;
 }
 .styled-table td {
-    border: 1px solid darkmagenta; /* Adds border to cells */
-    padding: 0px; /* Adds space inside cells */
+    border: 1.5px solid darkmagenta; /* Adds border to cells */
+    padding: 10px; /* Adds space inside cells */
     background-color: white;
 }
 .list-container {
