@@ -19,11 +19,11 @@ This document contains a table showing the rate at which Trump mentions specific
 |            trump | 32.45             |
 
 ## Image
-![Tweet Phrase Percentage Image](topic07/lab_tweets_figure.png)
+![Tweet Phrase Percentage Image](lab_tweets_figure.png)
 
 
 
 I also created an additional plot showing the number of tweets Trump publishes during each month of the year. This is meant to display any annual patterns over the period, investigating whether he tweets more during election season, etc. 
 
 ## Extra Credit Image
-![Tweet Frequency by Month Image](topic07/extracreditplot_1.png)
+![Tweet Frequency by Month Image](extracreditplot_1.png)
