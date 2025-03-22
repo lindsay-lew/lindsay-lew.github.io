@@ -1,6 +1,10 @@
 # Analysis of Trump's Tweets
 
-## Markdown Table of Tweet Percentages
+
+This document contains a table showing the rate at which Trump mentions specific phrases in his tweets, as well as a corresponding plot of the information.
+
+
+## Table of Tweet Percentages
 | Phrase           | Percent of Tweets |
 | ---------------- | ----------------- |
 |            biden | 01.97             |
@@ -17,4 +21,3 @@
 ## Image
 ![Tweet Percentage Image](topic07/lab_tweets_figure.png)
 
-This document contains a table showing the rate at which Trump mentions specific phrases in his tweets, as well as a corresponding plot of the information.
