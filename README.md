@@ -15,6 +15,6 @@
 |            trump | 32.45             |
 
 ## Image
-![Tweet Percentage Image](lab_tweets_figure.png)
+![Tweet Percentage Image](topic07/lab_tweets_figure.png)
 
 This document contains a table showing the rate at which Trump mentions specific phrases in his tweets, as well as a corresponding plot of the information.
